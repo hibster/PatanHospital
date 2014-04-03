@@ -14,7 +14,7 @@
         <div class="header">
             <div class="title">
                 <h1>
-                    My ASP.NET Application
+                    PatanHospital
                 </h1>
             </div>
             <div class="loginDisplay">
@@ -38,7 +38,11 @@
             </div>
         </div>
         <div class="main">
-            <asp:ContentPlaceHolder ID="MainContent" runat="server"/>
+            <asp:ContentPlaceHolder ID="MainContent" runat="server">
+                <p>
+                    This is a login portal for Doctors, Adminstration and Patients.&nbsp;
+                </p>
+            </asp:ContentPlaceHolder>
         </div>
         <div class="clear">
         </div>
