@@ -11,6 +11,7 @@ using System.Data;
 using System.Web.Configuration;
 using System.Configuration;
 
+
 namespace PatanHospital
 {
     public partial class WebForm1 : System.Web.UI.Page
