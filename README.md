@@ -3,6 +3,8 @@ PatanHospital
 
 This is a project developed by students of Loyola University Chicago for  Open Source Computing(COMP 412). We gratefully acknowledge professor Matthew Butcher(github technosophos) for his support to build this project.
 
+The goal of this project is to create an online scheduling system for doctors and patients. This includes patients being able to schedule appointments with different doctors and doctors being able to view those appointments. 
+
 The project is developed in Visual studio 2010. The backend server used is MS Server 2008. The server is hosted on  sql.cs.luc.edu.
 
 To get started with this project you need to install Visual Studio 2010. Youcan easily download it from https://www.dreamspark.com/(for students)
